@@ -36,7 +36,7 @@ Here's some of my favourite ones:
     - a quiz app with tons of different topics and questions
   </li>
     <li>
-    <a href="https://github.com/825kuba/flushing-clone">Trivia</a>
+    <a href="https://github.com/825kuba/flushing-clone">Flushing Blueprint</a>
     - landing page clone built using Bootstrap
   </li>
 </ul
