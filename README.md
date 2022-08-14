@@ -35,4 +35,8 @@ Here's some of my favourite ones:
     <a href="https://github.com/825kuba/quiz-app">Trivia</a>
     - a quiz app with tons of different topics and questions
   </li>
+    <li>
+    <a href="https://github.com/825kuba/flushing-clone">Trivia</a>
+    - landing page clone built using Bootstrap
+  </li>
 </ul
