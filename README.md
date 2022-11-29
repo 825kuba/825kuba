@@ -24,6 +24,10 @@ Here's some of my favourite ones:
 
 <ul>
   <li>
+    <a href="https://github.com/825kuba/e-commerce">Goods</a>
+    - imaginary company e-commerce and landing page
+  </li>
+  <li>
     <a href="https://github.com/825kuba/Tiempo-weather-app">Tiempo</a>
     - weather app with some extra features
   </li>
