@@ -4,17 +4,14 @@ I guess I like coding 🤷‍♂️
 
 ---
 
-### Things I use
+### Things I can use
 
-HTML | CSS | SCSS | JavaScript | Git | NPM | PARCEL | Netlify | Bootstrap
+HTML | CSS | SCSS | JavaScript | TypeScript | Vue3
 
-### Things I'm learning right now
-
-REACT
 
 ---
 
-### My work
+### My projects
 
 Check out my repos to see all of my projects. Each has a link to a live demo.
 
